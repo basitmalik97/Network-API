@@ -109,9 +109,5 @@ SO THAT my website can handle large amounts of unstructured data
 - Application deletes a user's associated thoughts when the user is deleted.
 
 ## Repository
-- [Code Repository](https://github.com/basitmalik97/HW_18-NoSQL-Social-Network-API)
+- [Code Repository](https://github.com/basitmalik97/Network-API/tree/main?tab=readme-ov-file)
 - [Live Site of API](https://drive.google.com/file/d/1TRJTdMAd_YK9z0EEuyfvEGqEYooyzNE7/view?usp=sharing)
-
----
-
-**Note:** This README is tailored for employers viewing the project on GitHub. The detailed grading requirements are excluded.
